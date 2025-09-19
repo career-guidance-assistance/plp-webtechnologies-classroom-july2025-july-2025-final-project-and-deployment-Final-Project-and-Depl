@@ -2,7 +2,7 @@
 
 Professional static portfolio website for Gloria Ngwu, an AI Software Engineer focused on building production-ready machine learning systems. This repository contains the source for a one-page portfolio (HTML, CSS, JS) plus a resume page and assets.
 
-Live demo
+Live demo/ Deployment link
 
 - https://career-guidance-assistance.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 
@@ -72,3 +72,4 @@ If you'd like, I can also:
 - Add a `package.json` with a `start` script for the local server.
 - Consolidate and minify CSS/JS files.
 - Add a small deployment section (GitHub Pages or Netlify steps) to the README.
+
